@@ -62,7 +62,7 @@ while True:
 
                 media = (nota1 + nota2 + nota3) /3
 
-                print("Sua media é {}".format(media))
+                print("Sua media é {:.2f}".format(media))
                 print(" ")
 
         case 3:
